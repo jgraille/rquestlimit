@@ -19,7 +19,9 @@ Create the environment at the repository root:
 
 Launch the api:
 
-    $ Rscript app.R
+```    
+>> Rscript app.R
+```
 
 Call the endpoint
 ```
