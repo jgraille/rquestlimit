@@ -1,0 +1,5 @@
+name: rquest
+channels:
+    - conda-forge
+dependencies:
+    - r-plumber=1.2.1
