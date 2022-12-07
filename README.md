@@ -29,4 +29,4 @@ Call the endpoint
 Hello world!
 ```
 
-*Page in construction*
+*Project is on hold as a MemCached client is needed.*
