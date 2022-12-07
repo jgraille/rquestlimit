@@ -1,2 +1,3 @@
-pr <- plumber::plumb("helloWorld.R")
-pr$run(port = 8000)
+library(plumber)
+pr <- plumber::plumb("/usr/scripts/helloWorld.R")
+pr$run(host='0.0.0.0',port = 8000)
